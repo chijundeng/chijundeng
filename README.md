@@ -1,18 +1,26 @@
 <h1 align="center">🧠 Welcome to My Brainy GitHub 🧩</h1>
 
 <p align="center">
-  <em>Neuroscience has to do not only with neurons, but also with where we come from and where we go.</em>
+  <em>Neuroscience isn't just about neurons - it's about why we're human.</em>
 </p>
 
 ---
 
-### About Me
-
-“Hi there! I’m a PhD student at Fudan University specializing in brain imaging and computational neuroscience, with a particular focus on autism spectrum disorder (ASD). My research aims to uncover the dynamic architecture of the brain across the human lifespan and to better understand the neural mechanisms underlying ASD.”
+### 🎓 About Me
+Hi there! I’m a PhD student at Fudan University specializing in **brain imaging** and **computational neuroscience**, with a particular focus on **autism spectrum disorder (ASD)**. My research aims to uncover the dynamic architecture of the brain across the human lifespan and to better understand the neural mechanisms underlying ASD.
 
 ---
 
+### 🛠️ Interests
 
-<p align="center">
-  <em>“Per aspera ad astra.”</em>
-</p>
+- Network Neuroscience 🕸️ 
+- Deep Learning and Large Language Models (LLMs) 🔥
+- Recommendation systems (I previously worked as an algorithm engineer at Kuaishou Technology 🧑‍💻)
+
+---
+
+### 🌟 Maxim
+
+> _Per aspera ad astra_ — _Through hardships to the stars._
+
+---
