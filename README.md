@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">🧠 Welcome to My Brainy GitHub 🧩</h1>
 
-<!--
-**chijundeng/chijundeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Neuroscience has to do not only with neurons, but also with where we come from and where we go.</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+Hi there! I'm a PhD student ad Fudan university focusing on the intersection of **brain imaging** and **computational neuroscience** — with a special focus on **autism spectrum disorder (ASD)**. My goal is to understand the dynamic architecture of the brain across the human lifespan and the mechanism underlying ASD.
+
+---
+
+
+<p align="center">
+  <em>“Per aspera ad astra.”</em>
+</p>
