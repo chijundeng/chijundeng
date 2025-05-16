@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Welcome to My Brainy GitHub 🧩</h1>
+<h2 align="center">🧠 Welcome to My Brainy GitHub 🧩</h1>
 
 <p align="center">
   <em>Neuroscience isn't just about neurons - it's about why we're human.</em>
