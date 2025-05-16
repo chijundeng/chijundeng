@@ -8,7 +8,7 @@
 
 ### About Me
 
-Hi there! I'm a PhD student ad Fudan university focusing on the intersection of **brain imaging** and **computational neuroscience** — with a special focus on **autism spectrum disorder (ASD)**. My goal is to understand the dynamic architecture of the brain across the human lifespan and the mechanism underlying ASD.
+“Hi there! I’m a PhD student at Fudan University specializing in brain imaging and computational neuroscience, with a particular focus on autism spectrum disorder (ASD). My research aims to uncover the dynamic architecture of the brain across the human lifespan and to better understand the neural mechanisms underlying ASD.”
 
 ---
 
