@@ -19,8 +19,3 @@ Hi there! I’m a PhD student at Fudan University specializing in **brain imagin
 
 ---
 
-### 🌟 Maxim
-
-> _Per aspera ad astra_ — _Through hardships to the stars._
-
----
